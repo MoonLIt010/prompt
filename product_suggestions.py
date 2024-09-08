@@ -1,20 +1,27 @@
 import openai
 import os
+import json
 from dotenv import load_dotenv
-import data
 
-# Load environment variables from .env file
 load_dotenv()
 
-# Retrieve the OpenAI API key from the environment
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
+with open('path_to/structured_products.json', 'r') as json_file:
+    products = json.load(json_file)
+
 def suggest_clothes(client_query, products):
+    product_list_str = ""
+    for product in products:
+        product_list_str += f"- Name: {product['name']}, Description: {product['description']}, " \
+                            f"Category: {product['category']}, Style: {product['style']}, " \
+                            f"Season: {product['season']}\n"
+
     prompt = f"""
     You are an AI assistant for an online clothing store. Below is a list of products, each with its name, description, category, style, season, and image folder.
 
     Product List:
-    {products}
+    {product_list_str}
 
     A customer has submitted the following inquiry: "{client_query}"
 
@@ -32,7 +39,6 @@ def suggest_clothes(client_query, products):
     Ensure that your recommendations are relevant to the inquiry and provide clear, concise details for each item.
     """
 
-    # Call GPT-3.5 Turbo as an alternative
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -44,20 +50,16 @@ def suggest_clothes(client_query, products):
 
     return response['choices'][0]['message']['content'].strip()
 
-# Main loop to interact with the user
 if __name__ == "__main__":
     while True:
-        # Prompt the user for a query
         client_query = input("Enter your query about clothing: ")
 
         if client_query.lower() in ["exit", "quit"]:
             print("Goodbye!")
             break
 
-        # Get suggestions from the AI
-        suggestions = suggest_clothes(client_query, data.products)
+        suggestions = suggest_clothes(client_query, products)
 
-        # Display the AI's suggestions
         print("\nAI Suggestions:")
         print(suggestions)
         print("\n" + "="*50 + "\n")
