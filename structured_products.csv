@@ -1,0 +1,6 @@
+id,name,description,category,style,season,image_folder
+1,Floral Summer Dress,"A light, breezy summer dress with a vibrant floral print, perfect for sunny days.",Women'swear,Floral,Summer,/content/Floral_Summer_Dress
+2,Denim Jacket,"Classic denim jacket with a modern twist, suitable for all seasons.",Outerwear,Denim,All Year,/content/Denim_Jacket
+3,Chino Pants,Comfortable and stylish chino pants available in multiple colors.,Men'swear,Casual,Spring,/content/Chino_Pants
+4,Polka Dress,A stylish dress with polka dot pattern perfect for casual outings.,Casualwear,Polka Dot,Summer,/content/Polka_Dress
+5,Winter Coat,"A thick and warm coat for the winter season, available in various colors.",Outerwear,Solid,Winter,/content/Winter_Coat

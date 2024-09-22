@@ -1,194 +1,182 @@
 [
     {
-        "name": "adidas Girls' Active Sport Logo 78 Legging Tights",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Onix\nPattern: Pastel Diagonal Fade Stripes\nDesign: 7/8 Length, Pull-On\nEmbellishments: None\nMaterials: 95% Cotton, 5% Elastane\nFabric Thickness: Light\nStyle: Active, Sport\nSeason: All\nBrand: adidas\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/adidas Girls' Active Sport Logo 78 Legging Tights/21476q7RSIL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/adidas Girls' Active Sport Logo 78 Legging Tights/21UdxFF8iEL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/adidas Girls' Active Sport Logo 78 Legging Tights/61Lq3TuysiL._AC_SX522_.jpg"
-        ]
+        "id": 1,
+        "name": "Floral Summer Dress",
+        "description": "A light, breezy summer dress with a vibrant floral print, perfect for sunny days.",
+        "category": "Women'swear",
+        "style": "Floral",
+        "season": "Summer",
+        "image_folder": "/content/Floral_Summer_Dress"
     },
     {
-        "name": "adidas womens Designed 2 Move 3-stripes High-rise Long Tights",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Mgh Solid Grey/Black\nPattern: Plain\nDesign: High-Rise, Skinny\nEmbellishments: Inner Key Pocket\nMaterials: 89% Polyester, 11% Elastane\nFabric Thickness: Medium\nStyle: Workout\nSeason: All\nBrand: adidas\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/adidas womens Designed 2 Move 3-stripes High-rise Long Tights/311q5Cjd5yL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/adidas womens Designed 2 Move 3-stripes High-rise Long Tights/31IzIv1f54L._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/adidas womens Designed 2 Move 3-stripes High-rise Long Tights/31YzTh-kHcL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/adidas womens Designed 2 Move 3-stripes High-rise Long Tights/71lkrgxH60L._AC_SY500_.jpg"
-        ]
+        "id": 2,
+        "name": "Denim Jacket",
+        "description": "Classic denim jacket with a modern twist, suitable for all seasons.",
+        "category": "Outerwear",
+        "style": "Denim",
+        "season": "All Year",
+        "image_folder": "/content/Denim_Jacket"
     },
     {
-        "name": "Billabong Women's New Waves Stripe Pant",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Salt Crystal\nPattern: Striped\nDesign: Mid to High-Rise\nEmbellishments: None\nMaterials: 100% Cotton\nFabric Thickness: Light\nStyle: Casual\nSeason: All\nBrand: Billabong\nCountry of Origin: Not specified\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Billabong Women's New Waves Stripe Pant/81hruDwh+aL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Billabong Women's New Waves Stripe Pant/81q+G9mKBoL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Billabong Women's New Waves Stripe Pant/81tcxh3KfUL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Billabong Women's New Waves Stripe Pant/81YrkRkdK-L._AC_SY500_.jpg"
-        ]
+        "id": 3,
+        "name": "Chino Pants",
+        "description": "Comfortable and stylish chino pants available in multiple colors.",
+        "category": "Men'swear",
+        "style": "Casual",
+        "season": "Spring",
+        "image_folder": "/content/Chino_Pants"
     },
     {
-        "name": "BISUAL Womens High Waisted Butt Lifting Jeans Distressed Stretch Skinny Sexy Colombian Jeans for Women",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Dark Blue\nPattern: Distressed\nDesign: High-Waisted, Butt Lifting, Skinny\nEmbellishments: Vintage Buttons, 4 Pockets\nMaterials: 80% Cotton, 18% Polyester, 2% Spandex\nFabric Thickness: Medium\nStyle: Casual\nSeason: All\nBrand: BISUAL\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/BISUAL Womens High Waisted Butt Lifting Jeans Distressed Stretch Skinny Sexy Colombian Jeans for Women/31ev1Siob1L._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/BISUAL Womens High Waisted Butt Lifting Jeans Distressed Stretch Skinny Sexy Colombian Jeans for Women/31IAMizqTlL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/BISUAL Womens High Waisted Butt Lifting Jeans Distressed Stretch Skinny Sexy Colombian Jeans for Women/61-bGU6DqpL._AC_SY500_.jpg"
-        ]
+        "id": 4,
+        "name": "Polka Dress",
+        "description": "A stylish dress with polka dot pattern perfect for casual outings.",
+        "category": "Casualwear",
+        "style": "Polka Dot",
+        "season": "Summer",
+        "image_folder": "/content/Polka_Dress"
     },
     {
-        "name": "Lee Women's Legendary High Rise Trouser Jean",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Elevated Retro\nPattern: Plain\nDesign: High-Rise, Trouser Silhouette\nEmbellishments: Logo Patch, Spade Pockets\nMaterials: 99% Cotton, 1% Spandex\nFabric Thickness: Medium\nStyle: Casual\nSeason: All\nBrand: Lee\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Lee Women's Legendary High Rise Trouser Jean/61ArSbL7h7L._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Legendary High Rise Trouser Jean/61qlqMFMiBL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Legendary High Rise Trouser Jean/61t0xHxY2bL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Legendary High Rise Trouser Jean/8163ijr1SCL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Legendary High Rise Trouser Jean/81WxZ98EFrL._AC_SX522_.jpg"
-        ]
+        "id": 5,
+        "name": "Winter Coat",
+        "description": "A thick and warm coat for the winter season, available in various colors.",
+        "category": "Outerwear",
+        "style": "Solid",
+        "season": "Winter",
+        "image_folder": "/content/Winter_Coat"
     },
     {
-        "name": "Lee Women's Plus Size Ultra Lux Comfort Any Wear Wide Leg Pant",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Tumbleweed\nPattern: Plain\nDesign: Mid-Rise, Wide-Leg\nEmbellishments: Faux Welt Back Pockets, 2 Front Slant Pockets\nMaterials: 67% Rayon, 28% Nylon, 5% Spandex\nFabric Thickness: Medium\nStyle: Casual, Work\nSeason: All\nBrand: Lee\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Lee Women's Plus Size Ultra Lux Comfort Any Wear Wide Leg Pant/51yVrv6bmdL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Plus Size Ultra Lux Comfort Any Wear Wide Leg Pant/61mWU3b+6JL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Plus Size Ultra Lux Comfort Any Wear Wide Leg Pant/61U8VGbDZIL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Lee Women's Plus Size Ultra Lux Comfort Any Wear Wide Leg Pant/81avFP1MYWL._AC_SY500_.jpg"
-        ]
+        "id": 6,
+        "name": "Leather Jacket",
+        "description": "A stylish leather jacket with a sleek design, ideal for evening outings.",
+        "category": "Outerwear",
+        "style": "Leather",
+        "season": "Fall",
+        "image_folder": "/content/Leather_Jacket"
     },
     {
-        "name": "Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Blue Gray\nPattern: Plain\nDesign: Long-Sleeved\nEmbellishments: Buttons, Zippers\nMaterials: Denim\nFabric Thickness: Medium\nStyle: Casual\nSeason: Autumn, Spring\nBrand: Lepunuo\nCountry of Origin: Not specified\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets/51utG0jPknL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets/714LHqmz-mL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets/71nMRvWLqPL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets/71QQZ12fwVL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Cargo Pants for Women High Waisted Casual Pants Baggy Stretchy Wide Leg Y2K Streetwear with 6 Pockets/71VzUd8ogzL._AC_SX522_.jpg"
-        ]
+        "id": 7,
+        "name": "Cotton T-Shirt",
+        "description": "A soft cotton t-shirt with a crew neck, available in multiple colors.",
+        "category": "Casualwear",
+        "style": "Solid",
+        "season": "Summer",
+        "image_folder": "/content/Cotton_Tshirt"
     },
     {
-        "name": "Lepunuo Wide Leg Pants for Women High Waisted Palazzo Pants Work Casual Flowy Tie Knot Trousers with Pockets",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Geometric - Black\nPattern: Print\nDesign: High-Waisted, Wide-Leg, Tie Knot Waist Belt\nEmbellishments: Pockets, Tie Knot\nMaterials: Lightweight, Soft, Skin-friendly, Breathable Fabrics\nFabric Thickness: Light\nStyle: Casual, Work\nSeason: All\nBrand: Lepunuo\nCountry of Origin: Not specified\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Palazzo Pants Work Casual Flowy Tie Knot Trousers with Pockets/61VOz85FMNL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Palazzo Pants Work Casual Flowy Tie Knot Trousers with Pockets/71r9Xmd9vfL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Palazzo Pants Work Casual Flowy Tie Knot Trousers with Pockets/71yTlJ2xRKL._AC_SX466_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Palazzo Pants Work Casual Flowy Tie Knot Trousers with Pockets/81-8SrH7TWL._AC_SY500_.jpg"
-        ]
+        "id": 8,
+        "name": "Wool Sweater",
+        "description": "A cozy wool sweater, perfect for the colder months.",
+        "category": "Knitwear",
+        "style": "Cable Knit",
+        "season": "Winter",
+        "image_folder": "/content/Wool_Sweater"
     },
     {
-        "name": "Lepunuo Wide Leg Pants for Women High Waisted Pants",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Polka Dot - Black\nPattern: Polka Dot\nDesign: High-Waisted, Wide-Leg, Tie Knot Waist Belt\nEmbellishments: Pockets, Tie Knot\nMaterials: 100% Polyester\nFabric Thickness: Light\nStyle: Casual, Work\nSeason: All\nBrand: Lepunuo\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Pants/7181oG+GC2L._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Pants/71EVjZPydTL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Pants/71POI3+1EhL._AC_SX466_.jpg",
-            "/mnt/data/Pants/Pants/Lepunuo Wide Leg Pants for Women High Waisted Pants/81ZbP8K+RRL._AC_SY500_.jpg"
-        ]
+        "id": 9,
+        "name": "Athletic Shorts",
+        "description": "Comfortable athletic shorts for workouts and casual wear.",
+        "category": "Activewear",
+        "style": "Sporty",
+        "season": "Summer",
+        "image_folder": "/content/Athletic_Shorts"
     },
     {
-        "name": "Nike Women's Modern",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Pink\nPattern: Plain\nDesign: Mid-Rise, Drawstring Waist\nEmbellishments: Embroidered Futura Logo\nMaterials: Fleece\nFabric Thickness: Medium\nStyle: Casual\nSeason: Cold Weather\nBrand: Nike\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Nike Women's Modern/31RKUjXwnNL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Nike Women's Modern/41JEdOU1T9L._AC_SY500_.jpg"
-        ]
+        "id": 10,
+        "name": "Polo Shirt",
+        "description": "A classic polo shirt with a modern fit, suitable for both casual and semi-formal occasions.",
+        "category": "Men'swear",
+        "style": "Polo",
+        "season": "Spring",
+        "image_folder": "/content/Polo_Shirt"
     },
     {
-        "name": "OYOANGLE Women's Floral Print High Waist Yoga Pants Wide Leg Pants Bell Bottom Trousers",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Orange\nPattern: Floral Print\nDesign: High-Waisted, Flare Leg, Bell Bottom\nEmbellishments: None\nMaterials: 91% Polyester, 9% Elastane\nFabric Thickness: Light\nStyle: Casual\nSeason: All\nBrand: OYOANGLE\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/OYOANGLE Women's Floral Print High Waist Yoga Pants Wide Leg Pants Bell Bottom Trousers/1.jpg",
-            "/mnt/data/Pants/Pants/OYOANGLE Women's Floral Print High Waist Yoga Pants Wide Leg Pants Bell Bottom Trousers/81315bGcyvL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/OYOANGLE Women's Floral Print High Waist Yoga Pants Wide Leg Pants Bell Bottom Trousers/81I1n41SLEL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/OYOANGLE Women's Floral Print High Waist Yoga Pants Wide Leg Pants Bell Bottom Trousers/81QgIUddtwL._AC_SY500_.jpg"
-        ]
+        "id": 11,
+        "name": "Jeans",
+        "description": "Stylish jeans with a modern fit.",
+        "category": "Men'swear",
+        "style": "Slim Fit",
+        "season": "All Year",
+        "image_folder": "/content/Jeans"
     },
     {
-        "name": "Rsq Low Rise Wide Leg Jeans",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Light Wash\nPattern: Plain\nDesign: Low-Rise, Wide-Leg, Loose Fit\nEmbellishments: None\nMaterials: 80% Recycled Cotton, 20% Cotton\nFabric Thickness: Medium\nStyle: Casual\nSeason: All\nBrand: RSQ\nCountry of Origin: Not specified\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Rsq Low Rise Wide Leg Jeans/415s-SRctSL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Rsq Low Rise Wide Leg Jeans/41ZNFFCUnNL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Rsq Low Rise Wide Leg Jeans/71R29OsMcVL._AC_SX385_.jpg"
-        ]
+        "id": 12,
+        "name": "Silk Scarf",
+        "description": "An elegant silk scarf with a floral pattern, ideal for accessorizing.",
+        "category": "Accessories",
+        "style": "Floral",
+        "season": "Spring",
+        "image_folder": "/content/Silk_Scarf"
     },
     {
-        "name": "Ru Sweet Women's Active High Waisted Sporty Gym Athletic Fit Jogger Sweatpants Baggy Lounge Pants with Pockets",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Beige\nPattern: Plain\nDesign: High-Waisted, Elastic Waist, Baggy\nEmbellishments: Pockets\nMaterials: Soft and Stretch Material\nFabric Thickness: Medium\nStyle: Sporty, Casual\nSeason: All\nBrand: Ru Sweet\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Ru Sweet Women's Active High Waisted Sporty Gym Athletic Fit Jogger Sweatpants Baggy Lounge Pants with Pockets/41+web2q4eL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Ru Sweet Women's Active High Waisted Sporty Gym Athletic Fit Jogger Sweatpants Baggy Lounge Pants with Pockets/41T37f4qOnL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Ru Sweet Women's Active High Waisted Sporty Gym Athletic Fit Jogger Sweatpants Baggy Lounge Pants with Pockets/41xjVIeQ-fL._AC_SR38,50_.jpg",
-            "/mnt/data/Pants/Pants/Ru Sweet Women's Active High Waisted Sporty Gym Athletic Fit Jogger Sweatpants Baggy Lounge Pants with Pockets/51m91rIAYdL._AC_SY500_.jpg"
-        ]
+        "id": 13,
+        "name": "Raincoat",
+        "description": "A waterproof raincoat with a hood, perfect for rainy days.",
+        "category": "Outerwear",
+        "style": "Solid",
+        "season": "Spring",
+        "image_folder": "/content/Raincoat"
     },
     {
-        "name": "SUUKSESS Women Ribbed Seamless Leggings High Waisted Workout Gym Yoga Pants",
-        "description": "Category: Leggings\nSize: All\nGender: Women\nColor: 18 Jade Green\nPattern: Ribbed\nDesign: High-Rise\nEmbellishments: None\nMaterials: 90% Nylon, 10% Spandex\nFabric Thickness: Medium\nStyle: Workout, Yoga\nSeason: All\nBrand: SUUKSESS\nCountry of Origin: Imported\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/SUUKSESS Women Ribbed Seamless Leggings High Waisted Workout Gym Yoga Pants/51GMMdtE7nL._AC_SX425_.jpg",
-            "/mnt/data/Pants/Pants/SUUKSESS Women Ribbed Seamless Leggings High Waisted Workout Gym Yoga Pants/51XTy4o04yL._AC_SX425_.jpg",
-            "/mnt/data/Pants/Pants/SUUKSESS Women Ribbed Seamless Leggings High Waisted Workout Gym Yoga Pants/61C9kKyt8PL._AC_SX522_.jpg",
-            "/mnt/data/Pants/Pants/SUUKSESS Women Ribbed Seamless Leggings High Waisted Workout Gym Yoga Pants/61cyuCnf68L._AC_SX425_.jpg"
-        ]
+        "id": 14,
+        "name": "Maxi Skirt",
+        "description": "A flowing maxi skirt with a bohemian print, perfect for summer outings.",
+        "category": "Women'swear",
+        "style": "Bohemian",
+        "season": "Summer",
+        "image_folder": "/content/Maxi_Skirt"
     },
     {
-        "name": "Urban Classics Women's Slim",
-        "description": "Category: Pants\nSize: All\nGender: Women\nColor: Dark Camo/Black\nPattern: Camouflage\nDesign: Mid-Rise\nEmbellishments: Side Strip\nMaterials: 91% Polyester, 9% Elastane\nFabric Thickness: Medium\nStyle: Casual\nSeason: All\nBrand: Urban Classics\nCountry of Origin: Not specified\nPrice: Medium",
-        "category": "Pants",
-        "style": "Unknown",
-        "season": "All Seasons",
-        "images": [
-            "/mnt/data/Pants/Pants/Urban Classics Women's Slim/719iqLhA4LL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Urban Classics Women's Slim/71T448dMQPS._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Urban Classics Women's Slim/71Xk+lg8bcL._AC_SY500_.jpg",
-            "/mnt/data/Pants/Pants/Urban Classics Women's Slim/91QHHgp26yL._AC_SY500_.jpg"
-        ]
+        "id": 15,
+        "name": "Yoga Pants",
+        "description": "Stretchy yoga pants designed for comfort during exercise.",
+        "category": "Activewear",
+        "style": "Sporty",
+        "season": "All Year",
+        "image_folder": "/content/Yoga_Pants"
+    },
+    {
+        "id": 16,
+        "name": "Trench Coat",
+        "description": "A classic trench coat with a belt, ideal for the fall season.",
+        "category": "Outerwear",
+        "style": "Classic",
+        "season": "Fall",
+        "image_folder": "/content/Trench_Coat"
+    },
+    {
+        "id": 17,
+        "name": "Beanie",
+        "description": "A warm beanie hat, perfect for winter days.",
+        "category": "Accessories",
+        "style": "Knitted",
+        "season": "Winter",
+        "image_folder": "/content/Beanie"
+    },
+    {
+        "id": 18,
+        "name": "Button-Up Shirt",
+        "description": "A crisp button-up shirt, suitable for office wear or formal events.",
+        "category": "Men'swear",
+        "style": "Formal",
+        "season": "All Year",
+        "image_folder": "/content/Button_Up_Shirt"
+    },
+    {
+        "id": 19,
+        "name": "Cargo Pants",
+        "description": "Rugged cargo pants with multiple pockets, ideal for outdoor activities.",
+        "category": "Men'swear",
+        "style": "Utility",
+        "season": "Fall",
+        "image_folder": "/content/Cargo_Pants"
+    },
+    {
+        "id": 20,
+        "name": "Graphic T-Shirt",
+        "description": "A trendy graphic t-shirt featuring bold designs, suitable for casual wear.",
+        "category": "Casualwear",
+        "style": "Graphic",
+        "season": "Summer",
+        "image_folder": "/content/Graphic_Tshirt"
     }
 ]
