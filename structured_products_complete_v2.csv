@@ -1,0 +1,21 @@
+id,name,description,category,style,season,image_folder
+1,Floral Summer Dress,"A light, breezy summer dress with a vibrant floral print, perfect for sunny days.",Women'swear,Floral,Summer,/content/Floral_Summer_Dress
+2,Denim Jacket,"Classic denim jacket with a modern twist, suitable for all seasons.",Outerwear,Denim,All Year,/content/Denim_Jacket
+3,Chino Pants,Comfortable and stylish chino pants available in multiple colors.,Men'swear,Casual,Spring,/content/Chino_Pants
+4,Polka Dress,A stylish dress with polka dot pattern perfect for casual outings.,Casualwear,Polka Dot,Summer,/content/Polka_Dress
+5,Winter Coat,"A thick and warm coat for the winter season, available in various colors.",Outerwear,Solid,Winter,/content/Winter_Coat
+6,Leather Jacket,"A stylish leather jacket with a sleek design, ideal for evening outings.",Outerwear,Leather,Fall,/content/Leather_Jacket
+7,Cotton T-Shirt,"A soft cotton t-shirt with a crew neck, available in multiple colors.",Casualwear,Solid,Summer,/content/Cotton_Tshirt
+8,Wool Sweater,"A cozy wool sweater, perfect for the colder months.",Knitwear,Cable Knit,Winter,/content/Wool_Sweater
+9,Athletic Shorts,Comfortable athletic shorts for workouts and casual wear.,Activewear,Sporty,Summer,/content/Athletic_Shorts
+10,Polo Shirt,"A classic polo shirt with a modern fit, suitable for both casual and semi-formal occasions.",Men'swear,Polo,Spring,/content/Polo_Shirt
+11,Jeans,Stylish jeans with a modern fit.,Men'swear,Slim Fit,All Year,/content/Jeans
+12,Silk Scarf,"An elegant silk scarf with a floral pattern, ideal for accessorizing.",Accessories,Floral,Spring,/content/Silk_Scarf
+13,Raincoat,"A waterproof raincoat with a hood, perfect for rainy days.",Outerwear,Solid,Spring,/content/Raincoat
+14,Maxi Skirt,"A flowing maxi skirt with a bohemian print, perfect for summer outings.",Women'swear,Bohemian,Summer,/content/Maxi_Skirt
+15,Yoga Pants,Stretchy yoga pants designed for comfort during exercise.,Activewear,Sporty,All Year,/content/Yoga_Pants
+16,Trench Coat,"A classic trench coat with a belt, ideal for the fall season.",Outerwear,Classic,Fall,/content/Trench_Coat
+17,Beanie,"A warm beanie hat, perfect for winter days.",Accessories,Knitted,Winter,/content/Beanie
+18,Button-Up Shirt,"A crisp button-up shirt, suitable for office wear or formal events.",Men'swear,Formal,All Year,/content/Button_Up_Shirt
+19,Cargo Pants,"Rugged cargo pants with multiple pockets, ideal for outdoor activities.",Men'swear,Utility,Fall,/content/Cargo_Pants
+20,Graphic T-Shirt,"A trendy graphic t-shirt featuring bold designs, suitable for casual wear.",Casualwear,Graphic,Summer,/content/Graphic_Tshirt
