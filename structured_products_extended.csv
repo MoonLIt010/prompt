@@ -1,0 +1,121 @@
+id,name,description,category,style,season,image_folder
+1,Floral Summer Dress,"A light, breezy summer dress with a vibrant floral print, perfect for sunny days.",Women'swear,Floral,Summer,/content/Floral_Summer_Dress
+2,Denim Jacket,"Classic denim jacket with a modern twist, suitable for all seasons.",Outerwear,Denim,All Year,/content/Denim_Jacket
+3,Chino Pants,Comfortable and stylish chino pants available in multiple colors.,Men'swear,Casual,Spring,/content/Chino_Pants
+4,Polka Dress,A stylish dress with polka dot pattern perfect for casual outings.,Casualwear,Polka Dot,Summer,/content/Polka_Dress
+5,Winter Coat,"A thick and warm coat for the winter season, available in various colors.",Outerwear,Solid,Winter,/content/Winter_Coat
+6,Leather Jacket,"A stylish leather jacket with a sleek design, ideal for evening outings.",Outerwear,Leather,Fall,/content/Leather_Jacket
+7,Cotton T-Shirt,"A soft cotton t-shirt with a crew neck, available in multiple colors.",Casualwear,Solid,Summer,/content/Cotton_Tshirt
+8,Wool Sweater,"A cozy wool sweater, perfect for the colder months.",Knitwear,Cable Knit,Winter,/content/Wool_Sweater
+9,Athletic Shorts,Comfortable athletic shorts for workouts and casual wear.,Activewear,Sporty,Summer,/content/Athletic_Shorts
+10,Polo Shirt,"A classic polo shirt with a modern fit, suitable for both casual and semi-formal occasions.",Men'swear,Polo,Spring,/content/Polo_Shirt
+11,Jeans,Stylish jeans with a modern fit.,Men'swear,Slim Fit,All Year,/content/Jeans
+12,Silk Scarf,"An elegant silk scarf with a floral pattern, ideal for accessorizing.",Accessories,Floral,Spring,/content/Silk_Scarf
+13,Raincoat,"A waterproof raincoat with a hood, perfect for rainy days.",Outerwear,Solid,Spring,/content/Raincoat
+14,Maxi Skirt,"A flowing maxi skirt with a bohemian print, perfect for summer outings.",Women'swear,Bohemian,Summer,/content/Maxi_Skirt
+15,Yoga Pants,Stretchy yoga pants designed for comfort during exercise.,Activewear,Sporty,All Year,/content/Yoga_Pants
+16,Trench Coat,"A classic trench coat with a belt, ideal for the fall season.",Outerwear,Classic,Fall,/content/Trench_Coat
+17,Beanie,"A warm beanie hat, perfect for winter days.",Accessories,Knitted,Winter,/content/Beanie
+18,Button-Up Shirt,"A crisp button-up shirt, suitable for office wear or formal events.",Men'swear,Formal,All Year,/content/Button_Up_Shirt
+19,Cargo Pants,"Rugged cargo pants with multiple pockets, ideal for outdoor activities.",Men'swear,Utility,Fall,/content/Cargo_Pants
+20,Graphic T-Shirt,"A trendy graphic t-shirt featuring bold designs, suitable for casual wear.",Casualwear,Graphic,Summer,/content/Graphic_Tshirt
+21,Product 21,Designed for both comfort and durability.,Casualwear,Striped,Winter,/content/Product_21
+22,Product 22,"Versatile and trendy, suitable for multiple occasions.",Men'swear,Floral,All Year,/content/Product_22
+23,Product 23,Heavy-duty material ideal for outdoor activities.,Outerwear,Patterned,Winter,/content/Product_23
+24,Product 24,"Versatile and trendy, suitable for multiple occasions.",Men'swear,Slim Fit,Winter,/content/Product_24
+25,Product 25,"Made from high-quality materials, designed to last.",Men'swear,Polka Dot,Autumn,/content/Product_25
+26,Product 26,"Made from high-quality materials, designed to last.",Women'swear,Slim Fit,Winter,/content/Product_26
+27,Product 27,Heavy-duty material ideal for outdoor activities.,Outerwear,Striped,Summer,/content/Product_27
+28,Product 28,Designed for both comfort and durability.,Men'swear,Floral,Autumn,/content/Product_28
+29,Product 29,"Made from high-quality materials, designed to last.",Women'swear,Patterned,Autumn,/content/Product_29
+30,Product 30,"Made from high-quality materials, designed to last.",Outerwear,Loose Fit,Autumn,/content/Product_30
+31,Product 31,"Lightweight and breathable, perfect for warmer weather.",Formalwear,Slim Fit,Autumn,/content/Product_31
+32,Product 32,"Made from high-quality materials, designed to last.",Outerwear,Floral,Winter,/content/Product_32
+33,Product 33,"Versatile and trendy, suitable for multiple occasions.",Outerwear,Loose Fit,Autumn,/content/Product_33
+34,Product 34,Heavy-duty material ideal for outdoor activities.,Women'swear,Striped,Spring,/content/Product_34
+35,Product 35,A wardrobe essential with a modern twist.,Casualwear,Striped,Spring,/content/Product_35
+36,Product 36,"Ideal for layering, great for everyday wear.",Women'swear,Slim Fit,Autumn,/content/Product_36
+37,Product 37,A statement piece that combines fashion with functionality.,Outerwear,Floral,Summer,/content/Product_37
+38,Product 38,"Ideal for layering, great for everyday wear.",Formalwear,Denim,Winter,/content/Product_38
+39,Product 39,Designed for both comfort and durability.,Sportswear,Polka Dot,All Year,/content/Product_39
+40,Product 40,"Made from high-quality materials, designed to last.",Outerwear,Floral,All Year,/content/Product_40
+41,Product 41,Designed for both comfort and durability.,Women'swear,Polka Dot,All Year,/content/Product_41
+42,Product 42,Heavy-duty material ideal for outdoor activities.,Formalwear,Plaid,Winter,/content/Product_42
+43,Product 43,"Lightweight and breathable, perfect for warmer weather.",Outerwear,Solid,Spring,/content/Product_43
+44,Product 44,"Ideal for layering, great for everyday wear.",Men'swear,Patterned,Spring,/content/Product_44
+45,Product 45,"Soft and comfortable, suitable for casual outings.",Men'swear,Striped,All Year,/content/Product_45
+46,Product 46,A wardrobe essential with a modern twist.,Men'swear,Floral,Winter,/content/Product_46
+47,Product 47,A wardrobe essential with a modern twist.,Women'swear,Solid,Spring,/content/Product_47
+48,Product 48,"Soft and comfortable, suitable for casual outings.",Sportswear,Striped,All Year,/content/Product_48
+49,Product 49,A statement piece that combines fashion with functionality.,Sportswear,Denim,Winter,/content/Product_49
+50,Product 50,"Versatile and trendy, suitable for multiple occasions.",Casualwear,Solid,Summer,/content/Product_50
+51,Product 51,"Ideal for layering, great for everyday wear.",Casualwear,Striped,Summer,/content/Product_51
+52,Product 52,"Versatile and trendy, suitable for multiple occasions.",Formalwear,Floral,Autumn,/content/Product_52
+53,Product 53,"Ideal for layering, great for everyday wear.",Formalwear,Striped,Summer,/content/Product_53
+54,Product 54,"Made from high-quality materials, designed to last.",Outerwear,Striped,Summer,/content/Product_54
+55,Product 55,"Ideal for layering, great for everyday wear.",Sportswear,Slim Fit,Autumn,/content/Product_55
+56,Product 56,Designed for both comfort and durability.,Outerwear,Solid,Summer,/content/Product_56
+57,Product 57,"Made from high-quality materials, designed to last.",Sportswear,Casual,Spring,/content/Product_57
+58,Product 58,"Soft and comfortable, suitable for casual outings.",Outerwear,Denim,Autumn,/content/Product_58
+59,Product 59,"Made from high-quality materials, designed to last.",Women'swear,Denim,Summer,/content/Product_59
+60,Product 60,"Made from high-quality materials, designed to last.",Sportswear,Solid,Spring,/content/Product_60
+61,Product 61,"Versatile and trendy, suitable for multiple occasions.",Women'swear,Loose Fit,Winter,/content/Product_61
+62,Product 62,Designed for both comfort and durability.,Men'swear,Slim Fit,Winter,/content/Product_62
+63,Product 63,"Lightweight and breathable, perfect for warmer weather.",Outerwear,Floral,Winter,/content/Product_63
+64,Product 64,A wardrobe essential with a modern twist.,Outerwear,Loose Fit,Winter,/content/Product_64
+65,Product 65,Designed for both comfort and durability.,Formalwear,Patterned,Summer,/content/Product_65
+66,Product 66,A statement piece that combines fashion with functionality.,Formalwear,Plaid,Summer,/content/Product_66
+67,Product 67,"Made from high-quality materials, designed to last.",Outerwear,Loose Fit,Spring,/content/Product_67
+68,Product 68,Heavy-duty material ideal for outdoor activities.,Casualwear,Denim,Spring,/content/Product_68
+69,Product 69,Designed for both comfort and durability.,Outerwear,Casual,Spring,/content/Product_69
+70,Product 70,A statement piece that combines fashion with functionality.,Women'swear,Casual,Autumn,/content/Product_70
+71,Product 71,"Ideal for layering, great for everyday wear.",Formalwear,Floral,Summer,/content/Product_71
+72,Product 72,"Ideal for layering, great for everyday wear.",Casualwear,Polka Dot,Spring,/content/Product_72
+73,Product 73,Heavy-duty material ideal for outdoor activities.,Formalwear,Striped,Winter,/content/Product_73
+74,Product 74,A statement piece that combines fashion with functionality.,Sportswear,Casual,Winter,/content/Product_74
+75,Product 75,"Lightweight and breathable, perfect for warmer weather.",Women'swear,Slim Fit,Summer,/content/Product_75
+76,Product 76,"Ideal for layering, great for everyday wear.",Men'swear,Denim,Spring,/content/Product_76
+77,Product 77,"Versatile and trendy, suitable for multiple occasions.",Casualwear,Polka Dot,All Year,/content/Product_77
+78,Product 78,"A comfortable and stylish piece, perfect for the season.",Formalwear,Casual,Spring,/content/Product_78
+79,Product 79,"Versatile and trendy, suitable for multiple occasions.",Casualwear,Solid,Autumn,/content/Product_79
+80,Product 80,Heavy-duty material ideal for outdoor activities.,Men'swear,Plaid,All Year,/content/Product_80
+81,Product 81,"Soft and comfortable, suitable for casual outings.",Men'swear,Denim,Winter,/content/Product_81
+82,Product 82,"Ideal for layering, great for everyday wear.",Sportswear,Denim,All Year,/content/Product_82
+83,Product 83,A wardrobe essential with a modern twist.,Casualwear,Solid,Summer,/content/Product_83
+84,Product 84,"Soft and comfortable, suitable for casual outings.",Sportswear,Slim Fit,Winter,/content/Product_84
+85,Product 85,Heavy-duty material ideal for outdoor activities.,Women'swear,Loose Fit,Autumn,/content/Product_85
+86,Product 86,A statement piece that combines fashion with functionality.,Casualwear,Denim,Summer,/content/Product_86
+87,Product 87,"Versatile and trendy, suitable for multiple occasions.",Sportswear,Slim Fit,Autumn,/content/Product_87
+88,Product 88,"Soft and comfortable, suitable for casual outings.",Sportswear,Plaid,All Year,/content/Product_88
+89,Product 89,"Soft and comfortable, suitable for casual outings.",Sportswear,Polka Dot,Winter,/content/Product_89
+90,Product 90,Designed for both comfort and durability.,Men'swear,Solid,Spring,/content/Product_90
+91,Product 91,Designed for both comfort and durability.,Men'swear,Denim,Autumn,/content/Product_91
+92,Product 92,"A comfortable and stylish piece, perfect for the season.",Women'swear,Polka Dot,Autumn,/content/Product_92
+93,Product 93,"Made from high-quality materials, designed to last.",Casualwear,Floral,Spring,/content/Product_93
+94,Product 94,A statement piece that combines fashion with functionality.,Casualwear,Solid,Autumn,/content/Product_94
+95,Product 95,"Versatile and trendy, suitable for multiple occasions.",Women'swear,Slim Fit,Autumn,/content/Product_95
+96,Product 96,"Ideal for layering, great for everyday wear.",Casualwear,Loose Fit,Spring,/content/Product_96
+97,Product 97,"Ideal for layering, great for everyday wear.",Formalwear,Polka Dot,Summer,/content/Product_97
+98,Product 98,"Soft and comfortable, suitable for casual outings.",Women'swear,Slim Fit,Summer,/content/Product_98
+99,Product 99,A statement piece that combines fashion with functionality.,Outerwear,Loose Fit,Winter,/content/Product_99
+100,Product 100,"Lightweight and breathable, perfect for warmer weather.",Women'swear,Floral,Summer,/content/Product_100
+101,Product 101,"Soft and comfortable, suitable for casual outings.",Sportswear,Striped,Autumn,/content/Product_101
+102,Product 102,"Versatile and trendy, suitable for multiple occasions.",Casualwear,Striped,Winter,/content/Product_102
+103,Product 103,"Made from high-quality materials, designed to last.",Formalwear,Solid,All Year,/content/Product_103
+104,Product 104,"A comfortable and stylish piece, perfect for the season.",Casualwear,Patterned,All Year,/content/Product_104
+105,Product 105,"Soft and comfortable, suitable for casual outings.",Sportswear,Plaid,All Year,/content/Product_105
+106,Product 106,A wardrobe essential with a modern twist.,Outerwear,Solid,All Year,/content/Product_106
+107,Product 107,A statement piece that combines fashion with functionality.,Casualwear,Slim Fit,Winter,/content/Product_107
+108,Product 108,"Versatile and trendy, suitable for multiple occasions.",Casualwear,Slim Fit,Summer,/content/Product_108
+109,Product 109,"Versatile and trendy, suitable for multiple occasions.",Men'swear,Floral,Summer,/content/Product_109
+110,Product 110,"Soft and comfortable, suitable for casual outings.",Men'swear,Striped,Summer,/content/Product_110
+111,Product 111,"Soft and comfortable, suitable for casual outings.",Casualwear,Floral,Spring,/content/Product_111
+112,Product 112,"Versatile and trendy, suitable for multiple occasions.",Formalwear,Loose Fit,Summer,/content/Product_112
+113,Product 113,"Lightweight and breathable, perfect for warmer weather.",Men'swear,Slim Fit,Winter,/content/Product_113
+114,Product 114,"Lightweight and breathable, perfect for warmer weather.",Formalwear,Plaid,All Year,/content/Product_114
+115,Product 115,A statement piece that combines fashion with functionality.,Sportswear,Slim Fit,All Year,/content/Product_115
+116,Product 116,"Made from high-quality materials, designed to last.",Formalwear,Solid,All Year,/content/Product_116
+117,Product 117,Heavy-duty material ideal for outdoor activities.,Outerwear,Casual,All Year,/content/Product_117
+118,Product 118,A wardrobe essential with a modern twist.,Sportswear,Floral,All Year,/content/Product_118
+119,Product 119,"Lightweight and breathable, perfect for warmer weather.",Women'swear,Solid,Spring,/content/Product_119
+120,Product 120,Designed for both comfort and durability.,Women'swear,Loose Fit,Spring,/content/Product_120

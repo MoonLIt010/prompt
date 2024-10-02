@@ -121,7 +121,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Load products from CSV file
 products = []
-with open('structured_products_complete_v2.csv', 'r') as csv_file:
+with open('structured_products_extended.csv', 'r') as csv_file:
     reader = csv.DictReader(csv_file)  # Reads each row as a dictionary
     for row in reader:
         # Ensure necessary fields exist and assign default values if missing
@@ -138,7 +138,7 @@ with open('structured_products_complete_v2.csv', 'r') as csv_file:
 
 # Load clients data from CSV file
 clients_data = []
-with open('client_data.csv', 'r') as csv_file:
+with open('evaluations_for_products.csv', 'r') as csv_file:
     reader = csv.DictReader(csv_file)
     for row in reader:
         purchase_history_str = row.get('purchase_history', '')
